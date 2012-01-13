@@ -1,11 +1,11 @@
 {
-  "name": "No SOPA",
-  "version": "1.11",
-  "description": "Be notified if you're visiting the website of a company that supports the dangerous Stop Online Piracy Act legislation.",
+  "name": "Pirate Buster",
+  "version": "1.0",
+  "description": "Be notified if you're visiting the website that may contain copyright infringement.",
   "background_page": "bg.html",
   "page_action": {
     "default_icon": "icon.png",
-    "default_title": "Known Internet Blacklist Legislation Supporter! Click to toggle this popup."
+    "default_title": "This website may contain copyright infringement."
   },
   "permissions": [
     "http://*/",
